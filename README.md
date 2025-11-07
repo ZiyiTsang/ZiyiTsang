@@ -19,6 +19,7 @@
 | [EasyR1](https://github.com/hiyouga/EasyR1) | hiyouga |
 | [VLM-R1](https://github.com/om-ai-lab/VLM-R1) | ZJU |
 | [Kimi-Audio-Evalkit](https://github.com/MoonshotAI/Kimi-Audio-Evalkit) | Kimi-AI |
+| [SimpleTuner](https://github.com/bghira/SimpleTuner) | bghira |
 
 ## Contact
 - **Email:** 224040296@link.cuhk.edu.cn
