@@ -22,6 +22,7 @@ Hello！This is ZENG Ziyi! Welcome!
 | Project | Organization |
 |---------|--------------|
 | [AReaL](https://github.com/inclusionAI/AReaL) | InclusionAI |
+| [[LLaMA-Factory](https://github.com/inclusionAI/AReaL)](https://github.com/hiyouga/LLaMA-Factory) | hiyouga |
 | [mne-python](https://github.com/mne-tools/mne-python) | MNE-tools |
 | [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit) | DAMO-academic |
 | [EasyR1](https://github.com/hiyouga/EasyR1) | hiyouga |
@@ -36,4 +37,4 @@ Hello！This is ZENG Ziyi! Welcome!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiyiTsang&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
-*Last updated: October 2025*
+*Last updated: Dec 2025*
