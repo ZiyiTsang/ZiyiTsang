@@ -33,8 +33,5 @@ Hello！This is ZENG Ziyi! Welcome!
 ## Contact
 - **Email:** 224040296@link.cuhk.edu.cn
 
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiyiTsang&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
 
 *Last updated: Dec 2025*
