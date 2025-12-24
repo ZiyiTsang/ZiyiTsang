@@ -18,6 +18,8 @@ Hello！This is ZENG Ziyi! Welcome!
 
 
 ## Open-Source Contributions (PR)
+[Full list]([https://github.com/inclusionAI/AReaL](https://github.com/search?q=author%3Aziyitsang&type=pullrequests&p=1))
+Some well-known projects:
 
 | Project | Organization |
 |---------|--------------|
