@@ -3,6 +3,11 @@ Hello！This is ZENG Ziyi! Welcome!
 泥嚎\(@^0^@)/！欢迎来到窝的Github主页！
 
 
+## Education
+2024.09-Present The Chinese University of Hong Kong (Shenzhen) MSc.
+2020.09-2024.06 Xiamen University (Malaysia), BEng.
+
+
 ## Research Interests
 - **Large Language Models (LLMs)**
 - **Multimodal Learning**
