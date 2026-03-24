@@ -18,7 +18,9 @@ Hello！This is ZENG Ziyi! Welcome!
 [Google Scholar Profile](https://scholar.google.com/citations?user=8UPHnTwAAAAJ&hl=zh-CN)
 
 
-[Personal Website](https://ziyitsang.github.io/)
+[Personal Website](https://ziyitsang.github.io/) [Wecheat(微信)](https://ziyitsang.github.io/assets/images/etc/wechat.jpg)
+
+I am seeking an internship opportunity. Please feel free to contact me anytime.
 
 
 
