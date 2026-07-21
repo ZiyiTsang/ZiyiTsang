@@ -4,7 +4,10 @@ Hello！This is ZENG Ziyi! Welcome!
 
 
 ## Education
-2024.09-Present The Chinese University of Hong Kong (Shenzhen) MSc.
+
+Present The Chinese University of Hong Kong (Shenzhen) PHD
+
+2024.09-2026.06 The Chinese University of Hong Kong (Shenzhen) MSc.
 
 2020.09-2024.06 Xiamen University (Malaysia), BEng.
 
@@ -45,4 +48,4 @@ Some well-known projects:
 - **Email:** 224040296@link.cuhk.edu.cn
 
 
-*Last updated: Dec 2025*
+*Last updated: Jul 2026*
