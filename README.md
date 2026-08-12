@@ -43,6 +43,7 @@ Some well-known projects:
 | [VLM-R1](https://github.com/om-ai-lab/VLM-R1) | ZJU |
 | [Kimi-Audio-Evalkit](https://github.com/MoonshotAI/Kimi-Audio-Evalkit) | Kimi-AI |
 | [SimpleTuner](https://github.com/bghira/SimpleTuner) | bghira |
+| [Slime](https://github.com/THUDM/slime) | THUDM |
 
 ## Contact
 - **Email:** 224040296@link.cuhk.edu.cn
