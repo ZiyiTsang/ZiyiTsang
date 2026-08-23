@@ -5,7 +5,7 @@ Hello！This is ZENG Ziyi! Welcome!
 
 ## Education
 
-Present The Chinese University of Hong Kong (Shenzhen) PHD
+Present The Chinese University of Hong Kong (Shenzhen) - Shenzhen Loop Area Institute (SLAI) PHD
 
 2024.09-2026.06 The Chinese University of Hong Kong (Shenzhen) MSc.
 
